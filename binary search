@@ -1,4 +1,4 @@
-# This following program is the solution to the Binary Search Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
+# The following program is the solution to the Binary Search Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
 
 def binary_search(input_array, value):
     """Your code goes here."""
