@@ -1,4 +1,4 @@
-# This following program is the solution to the Stacks Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
+# The following program is the solution to the Stacks Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
 
 class Element(object):
     def __init__(self, value):
