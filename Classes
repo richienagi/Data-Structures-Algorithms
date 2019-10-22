@@ -1,4 +1,4 @@
-# This following program is the solution to the Python Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
+# The following program is the solution to the Python Practice quiz of the Data Structures & Algorithms class by Grow with Google/Udacity
 
 class Classy:
     def __init__(self):
