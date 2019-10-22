@@ -1,4 +1,4 @@
-This following program is the solution to the Sorting Practice quizes of the Data Structures & Algorithms class by Grow with Google/Udacity
+# The following program is the solution to the Sorting Practice quizes of the Data Structures & Algorithms class by Grow with Google/Udacity
 
 def bubbleSort(array):
     isSorted = False        
