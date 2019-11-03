@@ -16,8 +16,10 @@ class BST(object):
             return
         if new_val < root.value and root.left is None:
             root.left = Node(new_val)
+            return
         elif new_val > root.value and root.right is None:
             root.right = Node(new_val)
+            return
         self.insert(root.left,new_val)
         self.insert(root.right,new_val)
 
