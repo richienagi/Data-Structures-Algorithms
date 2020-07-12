@@ -1,4 +1,4 @@
-# Count inversions in a list. The inversions.txt contains the list of numbers
+# Count inversions in a list. The inversionstxt.txt contains the list of numbers
 
 my_file = open("inversionstxt.txt", "r")
 content_list = my_file.read().split()
